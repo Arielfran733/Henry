@@ -1,0 +1,11 @@
+Variables: es guardar algo en algun lugar para despues poder recuperarlo.
+
+String: es una cadena de caracteres que pueden ser numéricos o alfanuméricos.
+
+Funciones: agrupar códigos, guardarlos para despues ejecutarlos. Sirve para usar muchas veces.
+
+Return: es el resultado que nos devuelve la función.
+
+If: sentencia lógica que se utiliza para dar una instrucción que "si" (if) no hace una cosa haga tal otra.
+
+Valores booleanos: sirven para dar un resultado verdadero (true) o falso (false) dependiendo las vriables establecidas.
